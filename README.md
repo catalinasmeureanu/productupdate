@@ -10,7 +10,7 @@ This repo can be used to find the latest version of a Hashicorp product. The bui
 
  To run the script:
 
-`python 3.7 hello.py -p=product -a=arch -os=operatingsystem`
+`$ python3.7 hello.py -p=product -a=arch -os=operatingsystem`
 
 Example:
 
